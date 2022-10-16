@@ -15,12 +15,12 @@
 		"tabPosition"	"0"
 
 		"red_base_x"	"0"
-		"red_base_y"	"c28"
+		"red_base_y"	"c-12"
 		"red_offset_x"	"0"
 		"red_offset_y"	"18"
 
 		"blu_base_x"	"0"
-		"blu_base_y"	"c46"
+		"blu_base_y"	"c-26.5"
 		"blu_offset_x"	"0"
 		"blu_offset_y"	"-18"
 	}
