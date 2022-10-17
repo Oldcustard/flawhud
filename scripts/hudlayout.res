@@ -4,7 +4,7 @@
 	{
 		"visible"	"1"
 		"enabled"	"1"
-		"labelText"	"?"
+		"labelText"	"!"
 		"controlName"	"CExLabel"
 		"fieldName"	"CustomCrosshair"
 		"zpos"	"0"
